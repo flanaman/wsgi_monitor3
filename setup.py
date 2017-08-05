@@ -5,7 +5,7 @@ setup(
     version="1.0",
     description="Auto-reload WSGI server when files change - Python 3",
     author="Mark Flanagan",
-    authoremail="mark.mflanagan@gmail.com",
+    author_email="mark.mflanagan@gmail.com",
     url="https://github.com/flanaman/wsgi_monitor3",
     download_url="https://github.com/flanaman/wsgi_monitor3/archive/1.0.tar.gz",
     py_modules=[
