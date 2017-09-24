@@ -5,7 +5,7 @@ Monitor that will reload wsgi process after changes to source code. Useful for
 development environments using apache.
 
 This code is originally from the mod_wsgi_ wiki page on SourceCodeReloading_,
-and was written by Graham Dumpleton. It had been modified to support Python 2
+and was written by Graham Dumpleton. It has been modified to support Python 2
 and 3.
 
 Installation
