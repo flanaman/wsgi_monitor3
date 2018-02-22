@@ -21,7 +21,7 @@ Usage
 
 For Django projects, put the following in your ``wsgi.py``  file::
 
- from wsgi_monitor3 import monitor
+ import wsgi_monitor3 as monitor
 
  monitor.start(interval=1.0)
 
